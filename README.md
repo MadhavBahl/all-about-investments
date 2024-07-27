@@ -66,6 +66,12 @@ But that's what I said - 2020-2024 has been a golden time for Indian stock marke
 
 There is a possibility that market might go up and down, or it might not give as good returns. But the regret of not having the knowledge of investments and not investing in the market when it there was a golden time is what inspired me to create this repo to document whatever I learn so that others can learn from my knowledge and take informed decisions when it comes to stock market and investments, and use this knowledge to grow their wealth.
 
+## A HUGE HUGE DISCLAIMER!!!!
+
+None of the examples that I'm going to share in this repo are stock buying or selling recommendations, neither do I take any money from any company to promote it's stock in this repo, nor I have any intention to promote or defame any firm.
+
+This repo is just for learning and the examples that I might use are ALSO intended **JUST FOR LEARNING!** Most of the examples might be of randomly picked companies, so if you decide to invest in that company just because this blog takes an example of that company - that's foolish and defeats the main purpose of this blog, i.e, to learn about investments.
+
 ## Table of contents
 
 - [Fundamental Analysis](Fundamental_Analysis/README.md)
@@ -73,7 +79,7 @@ There is a possibility that market might go up and down, or it might not give as
 
 ## Special mentions
 
-Here are a few places from where I'm learning about investments, do check these out:
+Here are a few places from where I'm learning about investments, **this blog is more or less the summary or important notes from these courses**. Do check these out:
 
 - [Zerodha Varsity: Introduction to stock markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
 - [Zerodha Varsity: Fundamental analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
