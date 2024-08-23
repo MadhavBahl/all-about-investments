@@ -46,3 +46,4 @@ As Steve Ballinger said - **"Do YOU understand the company an industry is the ke
 | Topic                | Link                   |
 | -------------------- |  --------------------- |
 | Key financial ratios | [Financial Ratios](./quantitative_analysis/1_financial_ratios.md) |
+| Valuation Ratios     | [Valuation Ratios](./quantitative_analysis/2_valuation_ratios.md) |
